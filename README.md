@@ -1,5 +1,5 @@
 # insert_str
-a tool helps you to read c/c++ code or debug
+a tool helps you to read c/c++ code and debug
 
 
 In order to clarify the calling process of the function when reading the code or debugging, 
